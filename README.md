@@ -64,5 +64,5 @@ This project demonstrates the use of deep learning for colorectal histology clas
 ## Acknowledgments
 
 - Publicly available colorectal histology datasets.
-- Open-source deep learning libraries such as TensorFlow and PyTorch.
+- Open-source deep learning libraries such as TensorFlow.
 
